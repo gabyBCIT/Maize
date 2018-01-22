@@ -1,0 +1,10 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="GrowingBoysCharacterController" preserve="all"/>
+<type fullname="PopTrigger" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsEventTracker" preserve="all"/>
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
