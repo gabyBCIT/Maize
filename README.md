@@ -3,6 +3,8 @@ A simple maze game where you are corn, and your goal is butter.
 
 Game created with Unity. All assets created with MagicaVoxel, character control and triggers done with C#.
 
+![Screenshot](Images/Corn.png)
+
 Done:
 - Character control
 - Collision detection on corn and maze walls
